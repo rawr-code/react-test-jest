@@ -1,0 +1,22 @@
+{
+  "name": "react-test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelVillegas/react-test-jest.git"
+  },
+  "author": " <Emmanuel Villegas>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmanuelVillegas/react-test-jest/issues"
+  },
+  "homepage": "https://github.com/EmmanuelVillegas/react-test-jest#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
