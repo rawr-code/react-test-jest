@@ -67,6 +67,7 @@
   },
   "homepage": "https://github.com/EmmanuelVillegas/react-test-jest/#readme",
   "jest": {
+    "verbose": true,
     "setupFilesAfterEnv": [
       "<rootDir>/src/__test__/setupTest.js"
     ],
